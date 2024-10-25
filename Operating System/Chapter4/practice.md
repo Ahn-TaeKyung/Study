@@ -50,8 +50,8 @@
 8. 다음 그림은 스레드 T1, T2, T3가 실행되는 과정을 보여준다. concurrency인가, parallelism인가?
 
 <img src = "https://github.com/user-attachments/assets/5e859169-12fd-410a-a653-0d4f0595faf9" width = 500>
-
 **concurrency**
+
 ---
 9. 스레드가 활동하는 코드, 데이터, 힙, 스택은 어떤 메모리 공간에 형성 되는가?
 - [ ] 스레드는 주소 공간을 가지지 않는다.
