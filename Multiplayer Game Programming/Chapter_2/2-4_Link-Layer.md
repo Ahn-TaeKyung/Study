@@ -23,4 +23,4 @@
 
 <img src="https://github.com/user-attachments/assets/66a26495-18c7-452b-913f-d0eb30d5bcf7" width="500">
 
-링크 계층의 구현물과 
+링크 계층의 구현물과 물리 계층의 연결 매체가 서로 밀접하게 연관되어 있다 보니 일부 모형에선 이 두가지를 합쳐 하나의 계층으로 묘사 하기도 한다.
